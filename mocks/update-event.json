@@ -1,0 +1,6 @@
+{
+  "body": "{\"company\":\"Nokia\",\"model\":\"N90\",\"content\":\"This is Nokia Mobile\",\"attachment\":\"Nokia.jpg\"}",
+  "pathParameters": {
+    "mobileId": "123"
+  }
+}
