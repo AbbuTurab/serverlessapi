@@ -1,6 +1,6 @@
 {
-  "body": "{\"company\":\"Nokia\",\"model\":\"N90\",\"content\":\"This is Nokia Mobile\",\"attachment\":\"Nokia.jpg\"}",
+  "body": "{\"company\":\"ABC\",\"model\":\"N900\",\"content\":\"This is Nokias Mobile\",\"attachment\":\"Nokias.jpg\"}",
   "pathParameters": {
-    "mobileId": "123"
+    "id": "0987fef0-d364-11eb-9803-cb9939768a8f"
   }
 }
