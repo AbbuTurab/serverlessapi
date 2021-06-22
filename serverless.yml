@@ -51,7 +51,7 @@ functions:
     handler: list.main
     events: 
       - http:
-          path: mobile/{id}
+          path: mobile
           method: get
   update:
     handler: update.main
